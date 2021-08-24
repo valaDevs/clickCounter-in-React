@@ -1,0 +1,35 @@
+*{
+    font-family: sans-serif;
+}
+.btn-add{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(55, 238, 95);
+    border:none;
+    outline:none;
+    font-size: 40px;
+    margin: 50px;
+    border-radius: 14px;
+}
+.btn-add:active{
+    transform: scale(1.2);
+}
+
+.btn-minus{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(255, 56, 89);
+    border:none;
+    outline:none;
+    font-size: 40px;
+    margin: 50px;
+    border-radius: 14px
+}
+.btn-minus:active{
+    transform: scale(1.2);
+}
+
+.count{
+    font-size: 50px;
+    color: #fff;
+}
