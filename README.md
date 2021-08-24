@@ -1,6 +1,6 @@
 # Getting Started with Create React App
-<center> <img style="margin-left:50px;" src="https://img.icons8.com/ultraviolet/40/000000/react--v2.png" class="center"/> </center>
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a align="center"> <img src="https://img.icons8.com/ultraviolet/100/000000/react--v2.png" class="center"/> </a>
+<br/>
 
 ## Available Scripts
 
